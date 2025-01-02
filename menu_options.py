@@ -3,7 +3,7 @@ import psycopg2
 conn = psycopg2.connect(
     database='postgres',
     user='postgres',
-    password='12345678',
+    password='***', # fill in your password here! 
     options='-c search_path=suicide_death_rates_us'
 )
 
