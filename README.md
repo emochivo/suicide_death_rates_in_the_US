@@ -7,3 +7,7 @@ This is my small project aiming to report the suicide death rates in the US base
 To run the code, make sure you already installed Python and PostgreSQL before. You can also change the database, user, password, or options from the 'connect()' function (menu_option.py) to match with your current settings. For 'options,' since I named my schema as "suicide_death_rates_us," I assigned it to the search_path field; it should be the schema into which you put the .csv file. 
 
 After that, you can run the main code in your favorite code editor. 
+
+Code execution video:
+https://github.com/user-attachments/assets/9aac8edb-ec23-4137-a628-fc44fdec6bd5
+
