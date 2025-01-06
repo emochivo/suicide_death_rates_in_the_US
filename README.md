@@ -1,6 +1,6 @@
 # SUICIDE DEATH RATES IN THE US 
 
-"Suicide Death Rates in the US" was written by Chi Vo and was finished on Jan 1, 2025.
+"Suicide Death Rates in the US" was written by Chi Vo and was finished on Jan 1, 2025 (the code can be updated later :P).
 
 This is my small project aiming to report the suicide death rates in the US based on biological sex or race (or both). The project requires using Python and PostgreSQL. My data (the .csv file) was downloaded from the data catalog of the US government (data.gov). From this project, I learn how to use psycopg2, which is a tool used to establish a connection between Python applications and PostgreSQL databases :)
 
